@@ -338,3 +338,6 @@ If statement 30 is changed to PRINT A + 1, the program will output -32767, in- d
    10  A = -32768
    20  INPUT A      where -32768 is typed in response to the input prompt
 will both result in error messages when executed.
+
+http://www.nomad.ee/micros/tbmanual/index.shtml
+
